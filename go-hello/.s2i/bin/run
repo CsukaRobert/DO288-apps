@@ -8,4 +8,5 @@
 #
 
 # Run the app
+echo Custom RUN script start
 exec /opt/app-root/app --lang es
